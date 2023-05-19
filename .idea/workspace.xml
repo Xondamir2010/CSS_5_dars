@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a310d70-6e0d-4fe4-b339-2549c35abf47" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2JQz31RBuxVadKWZ2sDJUVhgu3l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\IT PARK\Desktop\Xondamir\CSS\CSS 5 dars\CSS\Rasmlar" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a310d70-6e0d-4fe4-b339-2549c35abf47" name="Changes" comment="" />
+      <created>1672024893526</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672024893526</updated>
+      <workItem from="1672024894807" duration="321000" />
+      <workItem from="1672025265785" duration="5178000" />
+      <workItem from="1672110408255" duration="3991000" />
+      <workItem from="1672114806325" duration="157000" />
+      <workItem from="1672116509362" duration="645000" />
+      <workItem from="1672119127483" duration="164000" />
+      <workItem from="1672196417750" duration="1446000" />
+      <workItem from="1672197889127" duration="6165000" />
+      <workItem from="1672283707334" duration="6882000" />
+      <workItem from="1672312483170" duration="68000" />
+      <workItem from="1674448723026" duration="30000" />
+      <workItem from="1674449057916" duration="106000" />
+      <workItem from="1674449190465" duration="7000" />
+      <workItem from="1674449212336" duration="6000" />
+      <workItem from="1674449225063" duration="1470000" />
+      <workItem from="1674530396858" duration="500000" />
+      <workItem from="1674531004802" duration="118000" />
+      <workItem from="1674531331776" duration="5133000" />
+      <workItem from="1674616255835" duration="6785000" />
+      <workItem from="1674703891306" duration="3412000" />
+      <workItem from="1674876029059" duration="204000" />
+      <workItem from="1674876459059" duration="5672000" />
+      <workItem from="1675047931539" duration="745000" />
+      <workItem from="1675139678684" duration="11000" />
+      <workItem from="1675397495043" duration="20000" />
+      <workItem from="1681271325937" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

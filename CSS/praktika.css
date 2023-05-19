@@ -1,0 +1,99 @@
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+}
+h1{
+    text-shadow: 10px 7px 20px #cccccc;
+    margin-left: 475px;
+
+}
+.row{
+    width: 100%;
+    height: 400px;
+    display: block;
+    margin: 10px auto;
+}
+.col{
+    width: 30%;
+    display: block;
+    float: left;
+    border-radius: 8px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(80,80,80,0.8);
+    -webkit-box-shadow: 0 0 10px rgba(80,80,80,0.8);
+    -o-box-shadow: 0 0 10px rgba(80,80,80,0.8);
+    -moz-box-shadow: 0 0 10px rgba(80,80,80,0.8);
+    -ms-box-shadow: 0 0 10px rgba(80,80,80,0.8);
+    /*margin: 0 20px;*/
+    transition: all 0.5s ease-in-out;
+}
+.col:hover{
+    box-shadow: 0 0 20px black;
+}
+.sana{
+    padding: 5rem 0;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 600;
+    background-color: #7de29e;
+    color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.text-sana{
+    padding: 1.5rem 0;
+    text-align: center;
+}
+.row .col:nth-child(2){
+    margin: 0 5%;
+}
+.wrap .row:nth-child(2) .col:nth-child(1) .sana{
+    background-color: indianred;
+}
+.wrap .row:nth-child(6) .col:nth-child(2) .sana{
+    background-color: indianred;
+}
+
+.wrap .row:nth-child(2) .col:hover{
+    transform: scale(1.2,1.2);
+}
+
+.wrap .row:nth-child(3) .col:hover{
+    transform: scale(0.5,0.5) rotate(360deg) translate(0,200px);
+}
+
+.wrap .row:nth-child(4) .col:hover{
+    transform: scale(0.5,0.5) translate(0,200px);
+}
+
+.wrap .row:nth-child(5) .col:hover{
+    transform: rotate(15deg) translate(100px,200px);
+}
+
+.wrap .row:nth-child(6) .col:hover{
+    transform: translate(0,200px);
+}
+
+.wrap .row:nth-child(7) .col:hover{
+    transform: skew(30deg) scale(0.5,0.5);
+}
+
+.wrap .row:nth-child(8) .col:hover{
+    transform: scale(1.5,1.5) rotate(360deg);
+}
+
+.wrap .row:nth-child(9) .col:hover{
+    transform: rotate(360deg) translate(200px,200px);
+}
+
+.wrap .row:nth-child(10) .col:hover{
+    transform:translate(0,200px) rotate(90deg);
+}
+
+.wrap .row:nth-child(11) .col:hover{
+    transform: skew(15deg) translate(10px,200px);
+}
+
+.wrap .row:nth-child(12) .col:hover{
+    transform: rotate(45deg) translate(0,200px);
+}

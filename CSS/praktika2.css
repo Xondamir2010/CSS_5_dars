@@ -1,0 +1,91 @@
+.wrap{
+    border: 1px solid greenyellow;
+    width: 900px;
+    height: 900px;
+    background: radial-gradient(red,yellow,green);
+    margin-left: 400px;
+}
+.boxes{
+    border: 1px solid black;
+    width: 400px;
+    height: 200px;
+    background: linear-gradient(90deg,blue,green,yellow,orange,red);
+}
+h1{
+    text-align: center;
+    color: grey;
+}
+.big-boxes{
+    border: 1px solid black;
+    width: 400px;
+    height: 150px;
+    margin-top: -200px;
+    margin-left: 500px;
+    background: linear-gradient(180deg,darkred,dodgerblue,#7de29e);
+}
+h3{
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+.big-boxes2{
+    border: 1px solid black;
+    width: 400px;
+    height: 150px;
+    margin-top: -150px;
+    margin-left: 1000px;
+    background: linear-gradient(90deg,orange,yellow,yellowgreen,green,darkblue,blue,purple);
+}
+.abc{
+    border: 1px solid purple;
+    width: 300px;
+    height: 300px;
+    margin-top: 150px;
+    margin-left: 150px;
+    border-radius: 30%;
+    background: white;
+    box-shadow: 5px 5px 2px black;
+}
+.big-box{
+    border: 5px solid whitesmoke;
+    width: 600px;
+    height: 600px;
+    margin-top: 50px;
+    background: linear-gradient(120deg,purple,blue);
+}
+h2{
+    text-align: center;
+    margin-top: 100px;
+    color: yellow;
+    font-size: 100px;
+}
+.box{
+    border: 1px solid black;
+    width: 1000px;
+    height: 1000px;
+    margin-left: 2000px;
+    margin-top: -1500px;
+    background: radial-gradient(green,white,blue);
+}
+p{
+    font-size: 80px;
+    margin-top: 450px;
+    margin-left: 250px;
+    font-weight: bold;
+}
+.a{
+    color: gold;
+    font-size: 100px;
+    float: left;
+    margin-top: 90px;
+    margin-left: 25px;
+}
+.b{
+    color: blue;
+    font-size: 100px;
+    float: left;
+    margin-top: 90px;
+}
+
+
+
